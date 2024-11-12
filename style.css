@@ -177,7 +177,7 @@ footer hr {
   }
 
   .logo {
-    width: 500px;
+    width: 120px;
   }
 
   .social-media {
@@ -211,7 +211,7 @@ footer hr {
   }
 
   .logo {
-    width: 120px;
+    width: 150px;
     margin-top: 60px; /* Move the logo a bit higher on phone */
     margin-bottom: 120px;
   }
